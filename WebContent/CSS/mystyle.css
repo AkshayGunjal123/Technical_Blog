@@ -1,0 +1,9 @@
+body{
+	
+}
+.primary-background{
+ background:#2196f3!important;	
+}
+.bannner-background{
+clip-path: polygon(30% 0%, 70% 0%, 100% 0, 100% 93%, 61% 100%, 26% 89%, 0 100%, 0 0);
+}
